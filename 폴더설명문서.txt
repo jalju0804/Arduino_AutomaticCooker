@@ -1,0 +1,12 @@
+
+
+SteamGen7a : ...Sal8a 로 수정하기 전,  최종 버젼
+
+
+SteamGenSal8a : 시작버튼 동작없음/ 대(버튼) => 쌀국수 모드로 수정 버젼
+
+
+
+SteamGenLED : 모두 지우고,  LED만 동작하게.....수정
+
+SteamGenFinal: LCD로 동작 제어, shift register 추가
